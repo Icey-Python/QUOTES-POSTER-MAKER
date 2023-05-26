@@ -17,7 +17,7 @@ This is a Python script that generates image quotes by combining random quotes o
 2. Install the required dependencies using the following command:
 
 
-3. Open the Python script `main.py` in your preferred editor.
+3. Open the Python script `quot-er.py` in your preferred editor.
 
 4. Replace the value of the `UNSPLASH_ACCESS_KEY` variable with your own Unsplash API access key. You can obtain an access key by signing up for an account on the Unsplash Developer portal.
 
@@ -47,7 +47,7 @@ Feel free to adjust these variables to suit your preferences.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
