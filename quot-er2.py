@@ -9,7 +9,8 @@ from io import BytesIO
 if not os.path.exists("./quotes"):
     os.makedirs("./quotes")
 
-UNSPLASH_ACCESS_KEY = "EhbLrq_1p58vId4QpxK4tKxZv5qEsEE_B8ma4Fcq6eY"  # Replace with your Unsplash API access key
+UNSPLASH_ACCESS_KEY = "EhbLrq_1p58vId4QpxK4tKxZv5qEsEE_B8ma4Fcq6eY"  
+# Replace with your Unsplash API access key
 
 async def get_quotes():
     url = "https://api.quotable.io/random"
